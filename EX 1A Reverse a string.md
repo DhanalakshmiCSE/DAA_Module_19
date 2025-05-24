@@ -11,18 +11,17 @@ To write a program to create a recursive function to reverse a string.
 5. The rev function is called with a as the argument, and the result is printed using print(). 
 
 ## Program:
-```
-/*
-Program to implement Reverse a String
-Developed by: 
-Register Number:
+### Program to implement Reverse a String  
+**Developed by:** DHANALAKSHMI S  
+**Register Number:** 212222040033
 
+```
 def rev(a):
     return a[::-1]
 a=input()
 
 print(rev(a))
-*/
+
 ```
 ## Output:
 ![Screenshot 2025-05-24 170609](https://github.com/user-attachments/assets/3b508122-9622-4864-a78b-55d7ad445898)
