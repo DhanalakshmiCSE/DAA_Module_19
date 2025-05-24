@@ -11,8 +11,9 @@ To write a python program to implement quick sort using tha last element as pivo
 5. Repeat until the entire array is sorted and then print the sorted array.   
 
 ## Program:
+
 ### Program to implement implement quick sort using the last element as pivot on the list of float values.
-**Developed by:** DHANALAKSHMI S
+**Developed by:** DHANALAKSHMI S  
 **Register Number:** 212222040033
 ```
 def fun(arr,low,high):
